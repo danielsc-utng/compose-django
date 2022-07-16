@@ -1,1 +1,2 @@
 # compose-django
+El cambio de permisos en el directorio "data" puede afectar en el funcionamiento de la aplicación web, esto se realizó para que pudiera subirse a GitHub, por lo que es necesario cambiarlos nuevamente a los permisos de root debido a que se menciona en el tutorial que no deben ser cambiados. En otro caso, si se requiere la prueba de su funcionamiento puede preguntar en clase para realizarlo.
